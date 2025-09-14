@@ -1,5 +1,6 @@
 # solar-panel-fault-detection
 Solar Panel Fault Detection System Using Thermal Imaging
+
 Project Overview:
 This project develops an AI-based system to automatically detect faults in solar panels using thermal images. The system classifies various fault types such as dust, bird droppings, electrical faults, physical damage, and snow cover to help maintain solar panel efficiency and reduce manual inspection time.
 
